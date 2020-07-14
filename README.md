@@ -1,6 +1,6 @@
 ### Hi! I'm Shaun 👋.
 
-## I'm a full-stack developer specialising in JavaScript, React, Node and AWS.
+## I'm a full-stack developer specialising in JavaScript, React and Node.
 
 - 🔭 I’m open to work!
 - 😄 Pronouns: he/him
